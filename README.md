@@ -1,2 +1,1 @@
-# scripts
-DevOps scripts
+#Just some random DevOps scripts I wrote...
